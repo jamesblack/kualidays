@@ -1,0 +1,26 @@
+{
+  "name": "kualidays",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "classnames": "2.2.5",
+    "impress": "0.3.20",
+    "list": "0.8.2",
+    "material-ui": "0.16.1",
+    "react": "15.3.2",
+    "react-dom": "15.3.2",
+    "react-highlight": "0.9.0",
+    "react-tap-event-plugin": "1.0.0",
+    "react-uikit-codeblock": "2.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "now-start": "list ./build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
